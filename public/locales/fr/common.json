@@ -1,0 +1,9 @@
+{
+    "global": {
+      "greeting": "Bonjour",
+      "button": {
+        "save": "Enregister",
+        "discard": "Supprimer"
+      }
+  }
+}

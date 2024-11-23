@@ -1,0 +1,9 @@
+{
+    "global": {
+      "greeting": "Hello",
+      "button": {
+        "save": "Save",
+        "discard": "Discard"
+      }
+  }
+}
